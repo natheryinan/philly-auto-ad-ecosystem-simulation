@@ -1,0 +1,7 @@
+Lord-BRIDEGROOM-Project/
+│
+├── 📄 README.md (本文件)
+├── 🐍 philadelphia_auto_ad_ecosystem.py (主程序)
+├── 📊 sample_output/ (输出目录)
+├── 📈 performance_insights.md (战略洞察)
+└── 🎯 business_strategy.md (商业应用)
