@@ -1,3 +1,5 @@
+
+
 # Online Ads ROI & Conversion Modeling Sandbox
 
 A structured simulation and decision framework for **online advertising budget allocation** and **ROI / conversion optimization**, inspired by Google Ads–style media mix and bidding systems.
@@ -37,3 +39,12 @@ All artifacts are designed to be **human-readable and LLM-readable**, enabling f
 
 - `online_budget_scenario_tree.png`  
   Visual scenario tree for **multi-period budget allocation**, where branches re
+
+  ---
+
+## Author
+
+**Yinan Yang**  
+GitHub: `natheryinan`  
+
+Data Science / ML · Ads Optimization · Decision Modeling · Simulation Systems
