@@ -48,3 +48,10 @@ All artifacts are designed to be **human-readable and LLM-readable**, enabling f
 GitHub: `natheryinan`  
 
 Data Science / ML · Ads Optimization · Decision Modeling · Simulation Systems
+
+
+## Security
+
+This repository follows a standardized security policy shared across the Yinan research stack.
+
+Please refer to the `SECURITY.md` file for vulnerability reporting guidelines and disclosure practices.
